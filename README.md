@@ -2,13 +2,13 @@
 
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/a2719ecd-9016-4e73-81d3-ecc0f52b4c77" />
 
-**AHK in GPT GEMINI**는 한 번의 입력으로 **Gemini**와 **ChatGPT**에서 동시에 검색할 수 있도록 도와주는 AutoHotkey 기반의 생산성 도구입니다. 
+**AHK in GPT GEMINI**는 한 번의 입력으로 **Gemini**와 **ChatGPT**에서 동시에 검색할 수 있도록 도와주는 AutoHotkey 기반의 생산성 도구입니다. <br>
 브라우저 탭을 지능적으로 관리하여 중복 탭 생성을 방지하고, 과거 검색 기록을 효율적으로 관리할 수 있습니다.
 
 
 ## 🛠 설치 및 요구 사항
 
-* **Language**: [AutoHotkey](https://www.autohotkey.com/) v1.1 이상
+* **Language**: [AutoHotkey](https://www.autohotkey.com/) v1.1
 * **Browser**: Microsoft Edge (기본 경로 설치 권장)
 
 ## 📖 사용 방법
